@@ -23,7 +23,7 @@ It then passes this to the flask API. On getting the response, it is passed to t
 nodeJS acts as a mediator between our front-end and the LLM API.
 
 ### Flask
-The API takes in input from nodeJS.
+The API takes in input as follows:
 ```
 {
   "inputText": "How many total clients are there?"
