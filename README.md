@@ -6,7 +6,7 @@ This repo aims at developing an AI-powered chatbot to chat with a SQL database.
 
 ## Project data flow
 
-![arch cb](https://github.com/guitmonk-1290/db-chatbot/assets/104564065/03c92824-24be-498c-8db2-46cea29a6c1d)
+![arch cb](https://github.com/guitmonk-1290/AI-Chatbot/assets/104564065/a28e80b5-4cc2-42a8-bd1b-e32190204f85)
 
 ## API response formats
 
