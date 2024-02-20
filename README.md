@@ -89,3 +89,5 @@ The LLM uses something called few-shot prompting. In this, we give a few example
 All of this functionality is handled by the ```utils.py``` file.<br><br>
 The connection with our SQL database is handled by the ```sqlDB.py``` file.<br><br>
 The API functionality is handled in the ```app.py``` file<br><br>
+
+You can now more about dynamic few shot prompting here: https://medium.com/@iryna230520/dynamic-few-shot-prompting-overcoming-context-limit-for-chatgpt-text-classification-2f70c3bd86f9
