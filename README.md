@@ -20,7 +20,12 @@ The API takes in a key called "message" as input.<br>
 }
 ```
 It then passes this to the flask API. On getting the response, it is passed to the angular front-end.<br>
-nodeJS acts as a mediator between our front-end and the LLM API.
+nodeJS acts as a mediator between our front-end and the LLM API.<br>
+It includes the following API routes:
+<ul>
+  <li><b>/process-text: </b>This route interfaces with the Flask API or the GPT model</li><br>
+  <li><b>/data: </b>For large data, it cannot be displayed in the chatbot. This route renders the data in a table for display. An additional link can be passed as response to the chatbot for detailed display.</li><br>
+</ul>
 
 ### Flask
 The API takes in input as follows:
