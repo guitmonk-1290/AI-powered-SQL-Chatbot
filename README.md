@@ -1,6 +1,6 @@
 # AI-powered Chatbot
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
 
 This repo aims at developing an AI-powered chatbot to chat with a SQL database. 
 
