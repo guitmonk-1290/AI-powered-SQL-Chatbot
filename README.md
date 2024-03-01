@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
 
-This repo aims at developing an AI-powered chatbot to chat with a SQL database. 
+This repo aims at developing an AI-powered chatbot to chat with a SQL database using OpenAI's API. You can use other LLMs also. 
 
 ## Project data flow
 
